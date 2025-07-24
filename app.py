@@ -1,8 +1,7 @@
 import streamlit as st
 from google.oauth2 import service_account
 
-# Ensure you have your secrets configured in .streamlit/secrets.toml
-# as per the previous instructions for Streamlit Secrets.
+
 credentials = service_account.Credentials.from_service_account_info(st.secrets["google"])
 
 import pandas as pd
