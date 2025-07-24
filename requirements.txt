@@ -9,3 +9,9 @@ wordcloud
 requests
 beautifulsoup4
 selenium
+streamlit
+google-auth
+gspread
+pandas
+google-cloud-bigquery
+google-cloud-storage
