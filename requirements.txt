@@ -15,3 +15,5 @@ gspread
 pandas
 google-cloud-bigquery
 google-cloud-storage
+chromium-browser
+chromium-chromedriver
